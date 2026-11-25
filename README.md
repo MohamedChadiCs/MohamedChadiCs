@@ -51,7 +51,7 @@ class Developer:
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 
@@ -94,7 +94,7 @@ class Developer:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 01. Diagno Psy
 
@@ -134,7 +134,7 @@ A school management application designed to facilitate interactions between admi
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -150,7 +150,7 @@ A school management application designed to facilitate interactions between admi
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Improving algorithmic problem-solving skills.
 - Deepening my understanding of software architecture and engineering.
@@ -160,7 +160,7 @@ A school management application designed to facilitate interactions between admi
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
