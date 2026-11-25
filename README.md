@@ -50,22 +50,6 @@ class MohamedChadi:
 </marquee>
 </div>
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" />
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark" />
-
 **Additional:** Expo · React Native · Arduino · mBlock · MERISE · DFD · MCD
 
 ---
