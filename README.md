@@ -1,196 +1,154 @@
  <div align="center">
 
-# Mohamed Chadi
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=MOHAMED+CHADI;Computer+Science+%7C+Software+Engineering;Building+Ideas+Into+Software" />
 
-### `Computer Science Student | Software Developer`
+**COMPUTER SCIENCE STUDENT · SOFTWARE DEVELOPER**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Software+Solutions;Exploring+Algorithms+%26+Data+Structures;Passionate+About+Software+Engineering;Turning+Ideas+Into+Code" alt="Typing SVG" />
+Algeria 🇩🇿
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/MohamedChadiCs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-chadi-a972253b4)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.x.chadi@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohamedChadiCs-181717?style=for-the-badge&logo=github)](https://github.com/MohamedChadiCs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-chadi-a972253b4)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.x.chadi@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedChadiCs&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/MohamedChadiCs?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedChadiCs&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `01 // ABOUT ME`
 
-I'm a Computer Science student at the **University of Mohamed Boudiaf – M'Sila, Algeria**, interested in software engineering, algorithms, and building practical technology solutions.
+I'm a Computer Science student at **University of Mohamed Boudiaf – M'Sila**, Algeria, passionate about software engineering, algorithms, and building practical applications.
 
-I enjoy working across different areas of computer science, from designing algorithms and database architectures to developing full-stack applications.
-
-- 🎓 Computer Science student.
-- 💻 Software developer with practical project experience.
-- 🧠 Strong interest in algorithms and problem-solving.
-- 🗄️ Interested in database systems and software architecture.
-- 🔬 Exploring research in Human-Computer Interaction.
+I enjoy understanding systems from the ground up: designing efficient algorithms, structuring databases, developing applications, and transforming requirements into functional software.
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Mohamed Chadi"
-        self.location = "Algeria"
-        self.field = "Computer Science"
-        self.interests = [
-            "Software Engineering",
-            "Algorithms & Data Structures",
-            "Web Development",
-            "Database Systems",
-            "Human-Computer Interaction"
-        ]
+class MohamedChadi:
+    field = "Computer Science"
+    location = "Algeria"
 
-    def motto(self):
-        return "Think logically. Build efficiently. Keep learning."
+    interests = [
+        "Software Engineering",
+        "Algorithms & Data Structures",
+        "Full-Stack Development",
+        "Database Systems",
+        "Human-Computer Interaction"
+    ]
+
+    philosophy = "Understand. Design. Develop. Improve."
 ```
 
 ---
 
-##  Technical Skills
+## `02 // TECH STACK`
+
+### ⚡ Languages & Technologies
+
+<div align="center">
+<marquee behavior="scroll" direction="left" scrollamount="5">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css,react,nodejs,tailwind,mongodb,mysql,sqlite,git,github,linux,vscode,figma,arduino&theme=dark" alt="Technology stack" />
+</marquee>
+</div>
 
 ### Programming Languages
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" />
 
-</div>
-
-### Web Development
-
-<div align="center">
+### Frontend & Backend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark" />
 
-</div>
-
 ### Databases
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 
 ### Development Tools
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark" />
 
-</div>
-
-### Other Technologies
-
-- **Mobile Development:** Expo, React Native
-- **Embedded Systems:** Arduino, mBlock
-- **Design:** Figma, Canva
-- **Software Modeling:** MERISE, DFD, MCD
+**Additional:** Expo · React Native · Arduino · mBlock · MERISE · DFD · MCD
 
 ---
 
-##  Featured Projects
+## `03 // FEATURED PROJECTS`
 
-### 01. Diagno Psy
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Structured Psychological Assessment & Decision-Support System**
+### 🧠 Diagno Psy
 
-A software project designed to support structured psychological assessment through rule-based processing and established diagnostic frameworks.
+**Clinical Decision-Support System**
 
-**Key aspects:**
-- References to ICD-11 and DSM-5 diagnostic frameworks.
-- Rule-based decision-support engine.
-- Structured assessment and scoring logic.
-- Backend and frontend application architecture.
-- Database integration.
+A software project designed to support structured psychological assessment using established diagnostic frameworks.
 
-**Tech Stack:**
+- ICD-11 and DSM-5 references
+- Rule-based processing engine
+- Structured assessment and scoring
+- Frontend and backend architecture
+- Database integration
+
+**Stack**
 
 `JavaScript` `React` `Node.js` `Tailwind CSS` `SQL`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 02. School Management System
+### 🎓 School Management
 
-**Multilingual Educational Management Application**
+**Multilingual Educational Application**
 
-A school management application designed to facilitate interactions between administrators, teachers, and parents.
+An application designed to facilitate school administration and communication between educational stakeholders.
 
-**Key aspects:**
-- Role-based interfaces for administrators, teachers, and parents.
-- Multilingual support: Arabic, French, and English.
-- Light and dark interface themes.
-- Mobile application architecture.
-- Educational information management.
+- Admin, teacher and parent roles
+- Arabic, French and English
+- Light and dark themes
+- Mobile application architecture
+- Educational information management
 
-**Tech Stack:**
+**Stack**
 
 `Expo` `React Native` `JavaScript` `SQL`
 
+</td>
+</tr>
+</table>
+
 ---
 
-##  GitHub Analytics
+## `04 // CURRENT FOCUS`
+
+```text
+[+] Algorithm design & problem solving
+[+] Software architecture & engineering
+[+] Full-stack application development
+[+] Database design & optimization
+[+] Human-Computer Interaction research
+```
+
+---
+
+## `05 // CONNECT`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedChadiCs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://www.linkedin.com/in/mohammed-chadi-a972253b4">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedChadiCs&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="mailto:mohamed.x.chadi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/MohamedChadiCs">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=MohamedChadiCs&theme=tokyonight&hide_border=true" />
+**"Great software is built on great engineering."**
+
+`while(alive) { learn(); build(); improve(); }`
 
 </div>
-
----
-
-##  Current Focus
-
-- Improving algorithmic problem-solving skills.
-- Deepening my understanding of software architecture and engineering.
-- Building practical and maintainable software applications.
-- Exploring research opportunities in Human-Computer Interaction.
-- Continuously expanding my technical knowledge.
-
----
-
-##  Let's Connect
-
-<div align="center">
-
-I'm always interested in discussing software development, computer science, innovative projects, and opportunities to collaborate.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Chadi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-chadi-a972253b4)
-
-[![Email](https://img.shields.io/badge/Gmail-mohamed.x.chadi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.x.chadi@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/MohamedChadiCs)
-
-<br/>
-
-### `while(alive) { learn(); build(); improve(); }`
-
-**Thanks for visiting my profile!** ⭐
-
-</div>## Hi there 👋
-
-<!--
-**MohamedChadiCs/MohamedChadiCs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
